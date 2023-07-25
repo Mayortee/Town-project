@@ -1,0 +1,122 @@
+body {
+    color: #82A5CA;
+    text-align: center;
+    margin: 200px auto 300px auto;
+}
+#hero {
+    background-image: url("images/ijebu\ ode.jpeg");
+    background-size: cover;
+    text-align: center;
+    padding: 200px 0 0 100px;
+    height: 600px;   
+}
+.title {
+    text-align: center;
+    color: #FFFFFF;
+    background: #03045e;
+    width: 300px;
+    margin: 0 auto 0 auto;
+    border: none;
+    border-radius: 10px;  
+}
+.description {
+    text-align: center;
+    color: #FFFFFF;
+    background: #023e8a;
+    margin:10px auto 0 auto;
+    width: 350px;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    padding-top: 10px;
+}
+#activities {
+    border: 0px solid #f1faee;
+    text-align: center;
+    background: #e2eafc;
+    color: #003566;
+    margin: -50px auto 200px auto;
+    padding-top: 50px;
+}
+.heading {
+display: block;
+justify-content: center;
+}
+.show {
+    width: 150px; 
+}
+.img1{
+    width: 100px;
+    border-radius: 50%;
+    height: 100px;
+}
+.description1 {
+    width: 150px; 
+}
+.oba {
+    width: 150px; 
+}
+.places {
+    display: flex;
+    justify-content: space-around; 
+    text-align: center; 
+}
+.place1{
+    width: 10px;
+}
+place2{
+    width: 10px;
+}
+.place3 {
+    width: 10px;
+}
+.img2{
+    width: 100px;
+    border-radius: 50%;
+    height: 100px;
+}
+.description2 {
+    width: 150px;
+}
+.sport {
+    width: 150px; 
+}
+.img3 {
+    width: 100px;
+    border-radius: 50%;
+    height: 100px;
+}
+.description3 {
+    width: 150px;
+}
+#guide {
+ margin: auto;
+}
+.about {
+width: auto;
+}
+.heading {
+    display: block;
+}
+.card {
+    border-bottom: 4px solid #012a4a;
+    width: 250px;
+    height: 200px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    background: #90e0ef;
+    color: #012a4a; 
+    margin: -50px auto;
+    border-radius: 30px;
+    text-align: center;
+}
+.img4 {
+    width: 100px;
+    height: 200px;
+    }
+.text {
+    width: 250px;
+    height: 400px;  
+    padding-bottom: 400px; 
+}
